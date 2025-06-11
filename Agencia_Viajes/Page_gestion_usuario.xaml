@@ -1,0 +1,62 @@
+﻿<Page x:Class="Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Page_gestion_usuario"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="720" 
+      d:DesignWidth="1280"
+      Title="Page_registrar_cliente"
+      Loaded="Page_Loaded">
+
+    <Page.Resources>
+        <Storyboard x:Key="animacionFondo" RepeatBehavior="Forever">
+            <!-- Definir animación de fondo -->
+            <DoubleAnimation 
+                Storyboard.TargetName="FondoImagen2" 
+                Storyboard.TargetProperty="Opacity" 
+                From="0" To="1" Duration="0:0:3" AutoReverse="True" RepeatBehavior="Forever"/>
+            <DoubleAnimation 
+                Storyboard.TargetName="FondoImagen3" 
+                Storyboard.TargetProperty="Opacity" 
+                From="0" To="1" Duration="0:0:3" AutoReverse="True" RepeatBehavior="Forever"/>
+            <!-- Puedes agregar más animaciones para otras imágenes aquí -->
+        </Storyboard>
+    </Page.Resources>
+
+    <Grid>
+        <!-- Imágenes de Fondo -->
+        <Image x:Name="FondoImagen2" Source="img/foto2.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0" />
+        <Image x:Name="FondoImagen3" Source="img/foto3.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image x:Name="FondoImagen4" Source="img/foto4.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image x:Name="FondoImagen5" Source="img/foto5.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image x:Name="FondoImagen7" Source="img/foto7.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0" Margin="-10,0,10,0"/>
+
+        <!-- Título -->
+        <Rectangle HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="1280" Opacity="0.75" Fill="#FF37637B"/>
+        <Label Content="REGISTRAR CLIENTE" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="50" FontFamily="NSimSun" Margin="0,16,0,0"/>
+
+        <!-- Contenedor Principal -->
+        <Rectangle HorizontalAlignment="Center" Height="460" VerticalAlignment="Top" Width="1280" Opacity="0.85" Fill="#FF37637B" Margin="0,260,0,0"/>
+
+        <!-- Nombre -->
+        <Label Content="Nombre" HorizontalAlignment="Right" Margin="0,276,899,0" VerticalAlignment="Top" FontSize="30" RenderTransformOrigin="0.122,0.561" FontWeight="Bold"/>
+        <TextBox x:Name="TextBoxNombre" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" FontSize="20" Margin="157,326,0,0" />
+
+        <!-- Apellidos -->
+        <Label Content="Apellidos" HorizontalAlignment="Right" Margin="0,406,891,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <TextBox x:Name="TextBoxApellidos" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" FontSize="20" Margin="157,461,0,0" />
+
+        <!-- DNI -->
+        <Label Content="DNI" HorizontalAlignment="Right" Margin="0,270,290,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <TextBox x:Name="TextBoxDNI" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" FontSize="20" Margin="808,325,0,0" />
+
+        <!-- Correo Electrónico -->
+        <Label Content="Correo Electrónico" HorizontalAlignment="Left" Margin="822,406,0,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <TextBox x:Name="TextBoxCorreo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" FontSize="20" Margin="808,467,0,0" />
+
+        <!-- Botones -->
+        <Button Content="Volver" Style="{StaticResource ModernoBoton}" HorizontalAlignment="Left" Margin="41,620,0,0" VerticalAlignment="Top" Height="50" Width="168" FontSize="25" Click="VolverMenu_Click"/>
+        <Button Content="Registrar" HorizontalAlignment="Left" Style="{StaticResource ModernoBoton}"  Margin="539,580,0,0" VerticalAlignment="Top" Height="40" Width="182" FontSize="25" Click="RegistrarCliente_Click"/>
+    </Grid>
+</Page>

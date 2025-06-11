@@ -1,0 +1,152 @@
+﻿<Page x:Class="Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Page_menu_principal"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Proyecto_Troncal.Rubén_De_Las_Heras_Silveira"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" 
+      d:DesignWidth="1280"
+      
+      Title="Page_menu_principal"
+      Loaded="Page_Loaded">
+
+    <Page.Resources>
+        <Storyboard x:Key="animacionFondo" RepeatBehavior="Forever">
+            <!-- FondoImagen2 aparece con opacidad 1 -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:2" BeginTime="0:0:0"/>
+
+            <!-- FondoImagen2 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:4" BeginTime="0:0:2"/>
+
+            <!-- FondoImagen2 desaparece mientras FondoImagen3 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:2" BeginTime="0:0:6"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:2" BeginTime="0:0:6"/>
+
+            <!-- FondoImagen3 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:4" BeginTime="0:0:8"/>
+
+            <!-- FondoImagen3 desaparece mientras FondoImagen4 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:2" BeginTime="0:0:12"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:2" BeginTime="0:0:12"/>
+
+            <!-- FondoImagen4 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:4" BeginTime="0:0:14"/>
+
+            <!-- FondoImagen4 desaparece mientras FondoImagen5 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:2" BeginTime="0:0:18"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:2" BeginTime="0:0:18"/>
+
+            <!-- FondoImagen5 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:4" BeginTime="0:0:20"/>
+
+            <!-- FondoImagen5 desaparece mientras FondoImagen7 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:2" BeginTime="0:0:24"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:2" BeginTime="0:0:24"/>
+
+            <!-- FondoImagen7 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:4" BeginTime="0:0:26"/>
+
+            <!-- FondoImagen7 desaparece mientras FondoImagen2 comienza a aparecer nuevamente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:2" BeginTime="0:0:30"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:2" BeginTime="0:0:30"/>
+        </Storyboard>
+    </Page.Resources>
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="393" />
+            <ColumnDefinition Width="524*" />
+            <ColumnDefinition Width="363*" />
+            <ColumnDefinition Width="0*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="604" />
+            <RowDefinition Height="0*" />
+        </Grid.RowDefinitions>
+
+
+
+        <!-- Botones con ZIndex mayor para que estén por encima de otros elementos -->
+
+        <!-- Fondo de las imágenes con opacidad -->
+        <Image Name="FondoImagen2" Source="img/foto2.jpg" Stretch="Fill" Grid.RowSpan="2" Grid.ColumnSpan="3" Opacity="0" Panel.ZIndex="0" />
+        <Image Name="FondoImagen3" Source="img/foto3.jpg" Stretch="Fill" Grid.RowSpan="2" Grid.ColumnSpan="3" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen4" Source="img/foto4.jpg" Stretch="Fill" Grid.RowSpan="2" Grid.ColumnSpan="3" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen5" Source="img/foto5.jpg" Stretch="Fill" Grid.RowSpan="2" Grid.ColumnSpan="3" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen7" Source="img/foto7.jpg" Stretch="Fill" Grid.RowSpan="2" Grid.ColumnSpan="3" Opacity="0" Panel.ZIndex="0" Margin="-10,0,10,0"/>
+
+        <!-- Rectángulos con opacidad para los fondos -->
+        <Rectangle HorizontalAlignment="Left" Height="363" VerticalAlignment="Top" Width="1288" Grid.Row="1" Grid.ColumnSpan="3" Opacity="0.85" Fill="#FF37637B" Margin="-8,243,0,0" Panel.ZIndex="0"/>
+        <Rectangle HorizontalAlignment="Center" Height="156" VerticalAlignment="Top" Width="1280" Opacity="0.75" Grid.ColumnSpan="3" Fill="#FF37637B" Panel.ZIndex="0" Grid.RowSpan="2"/>
+
+        <!-- Título en la pantalla -->
+        <Label Content="FlyAndScape" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="80" Height="116" Width="452" Grid.Column="1" FontFamily="Candara" Panel.ZIndex="1" Margin="0,-3,0,0"/>
+
+        <Button Content="Logout"
+                Style="{StaticResource ModernoBoton}" 
+                HorizontalAlignment="Left"
+                Click="Logout_Click"
+                FontSize="25"
+                Margin="93,388,0,0"
+                Grid.Row="1" 
+                VerticalAlignment="Top" Cursor=""/>
+
+        <Button Grid.Column="1" 
+                Style="{StaticResource ModernoBoton}"
+                Click="Consultas_Click"
+                Content="Consultar Vuelos" 
+                FontSize="25" 
+                HorizontalAlignment="Left" 
+                Margin="483,388,0,0" 
+                Grid.Row="1" 
+                VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+
+        <Button Content="Gestionar Viaje"
+            Style="{StaticResource ModernoBoton}" 
+            HorizontalAlignment="Left"
+            Click="Gestion_Click"
+            FontSize="25"
+            Margin="87,388,0,0"
+            Grid.Row="1" 
+            VerticalAlignment="Top" Cursor="" Grid.Column="1"/>
+
+
+
+    </Grid>
+</Page>

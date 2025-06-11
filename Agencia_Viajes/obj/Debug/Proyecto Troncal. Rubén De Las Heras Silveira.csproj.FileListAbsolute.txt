@@ -1,0 +1,185 @@
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe.config
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.AssemblyReference.cache
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Page_inicio_sesion.g.cs
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\App.g.cs
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.cache
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.lref
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\MainWindow.baml
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Page_inicio_sesion.baml
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.g.resources
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Properties.Resources.resources
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.GenerateResource.cache
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Page_menu_principal.g.cs
+C:\Users\ruben\Documents\Desarrollo de Interfaces\PROYECTO\Proyecto Troncal. Rubén De Las Heras Silveira\obj\Debug\Page_menu_principal.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.AssemblyReference.cache
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\MainWindow.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_inicio_sesion.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_menu_principal.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\App.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.cache
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.lref
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\Rubén\Desktop\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe.config
+C:\Users\Rubén\Desktop\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\Rubén\Desktop\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\MainWindow.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_inicio_sesion.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_menu_principal.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.g.resources
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Properties.Resources.resources
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.GenerateResource.cache
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_gestion_usuario.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_gestion_usuario.baml
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.AssemblyReference.cache
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\MainWindow.g.cs
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_gestion_usuario.g.cs
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_inicio_sesion.g.cs
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_menu_principal.g.cs
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\App.g.cs
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.cache
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.lref
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe.config
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\MainWindow.baml
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_gestion_usuario.baml
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_inicio_sesion.baml
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_menu_principal.baml
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.g.resources
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Properties.Resources.resources
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.GenerateResource.cache
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.CoreCompileInputs.cache
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+D:\Instituto\GRADO SUPERIOR\2 GRADO SUPERIOR\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe.config
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_inicio_sesion.baml
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_inicio_sesion.g.cs
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_menu_principal.g.cs
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\App.g.cs
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.cache
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.lref
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\MainWindow.baml
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_menu_principal.baml
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.g.resources
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Properties.Resources.resources
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.baml
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.g.cs
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_gestion_viaje.baml
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_gestion_viaje.g.cs
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_gestion_usuario.baml
+C:\Users\ruben\Desktop\Nueva carpeta (2)\DI\1 Trimestre\Ejercicios\Proyecto\Agencia_Viajes\obj\Debug\Page_gestion_usuario.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_gestion_viaje.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_consultas.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_gestion_viaje.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\Page_consultas.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\MensajeDNI.g.cs
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\MensajeDNI.baml
+C:\Users\Rubén\Desktop\Agencia_Viajes\obj\Debug\App.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe.config
+C:\Users\ruben\Downloads\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\ruben\Downloads\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.AssemblyReference.cache
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_gestion_usuario.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_gestion_viaje.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_inicio_sesion.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_consultas.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_gestion_usuario.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_gestion_viaje.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_inicio_sesion.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_menu_principal.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\MensajeDNI.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\App.g.cs
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.cache
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.lref
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\App.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\MainWindow.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_consultas.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Page_menu_principal.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\MensajeDNI.baml
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.g.resources
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Properties.Resources.resources
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.GenerateResource.cache
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\ruben\Downloads\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe.config
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.AssemblyReference.cache
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_gestion_usuario.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_gestion_viaje.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_inicio_sesion.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\MainWindow.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_consultas.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_gestion_usuario.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_gestion_viaje.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_inicio_sesion.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_menu_principal.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\MensajeDNI.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\App.g.cs
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.cache
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.lref
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\App.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\MainWindow.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_consultas.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Page_menu_principal.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\MensajeDNI.baml
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.g.resources
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Properties.Resources.resources
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.GenerateResource.cache
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\Rubén\Desktop\Proyecto Troncal DI\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe.config
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\bin\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.AssemblyReference.cache
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_gestion_usuario.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_gestion_viaje.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_inicio_sesion.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\MainWindow.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\MBPreguntarClienteAlta.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_consultas.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_gestion_usuario.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_gestion_viaje.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_inicio_sesion.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_menu_principal.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\MensajeDNI.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\App.g.cs
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.cache
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira_MarkupCompile.lref
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\App.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\MainWindow.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_consultas.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Page_menu_principal.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\MensajeDNI.baml
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.g.resources
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Properties.Resources.resources
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.GenerateResource.cache
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto Troncal. Rubén De Las Heras Silveira.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.exe
+C:\Users\Rubén\Desktop\Rubén De Las Heras Silveira\Agencia_Viajes\obj\Debug\Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.pdb

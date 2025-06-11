@@ -1,0 +1,22 @@
+﻿<Window x:Class="Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_Troncal.Rubén_De_Las_Heras_Silveira"
+        mc:Ignorable="d"
+        Title="MainWindow"   
+        Height="720" 
+        Width="1280" 
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        >
+    <Grid>
+        
+        <Frame x:Name="paginaInicio" Source="Page_inicio_sesion.xaml" NavigationUIVisibility="Hidden" 
+        /> 
+        <!--  <Frame x:Name="paginaMenu" Source="Page_menu_principal.xaml" NavigationUIVisibility="Hidden" 
+               HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/> -->
+        
+    </Grid>
+</Window>

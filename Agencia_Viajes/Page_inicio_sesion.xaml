@@ -1,0 +1,120 @@
+﻿<Page x:Class="Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Page_inicio_sesion"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Title="Inicio de sesión"
+      Width="1280" Height="720"
+      Loaded="Page_Loaded">
+
+    <Page.Resources>
+        <Storyboard x:Key="animacionFondo" RepeatBehavior="Forever">
+            <!-- FondoImagen2 aparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:3" BeginTime="0:0:0"/>
+            <!-- FondoImagen2 permanece visible por 5 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:5" BeginTime="0:0:3"/>
+            <!-- FondoImagen2 desaparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:3" BeginTime="0:0:8"/>
+
+            <!-- FondoImagen3 aparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:3" BeginTime="0:0:8"/>
+            <!-- FondoImagen3 permanece visible por 5 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:5" BeginTime="0:0:11"/>
+            <!-- FondoImagen3 desaparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:3" BeginTime="0:0:16"/>
+
+            <!-- FondoImagen4 aparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:3" BeginTime="0:0:16"/>
+            <!-- FondoImagen4 permanece visible por 5 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:5" BeginTime="0:0:19"/>
+            <!-- FondoImagen4 desaparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:3" BeginTime="0:0:24"/>
+
+            <!-- FondoImagen5 aparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:3" BeginTime="0:0:24"/>
+            <!-- FondoImagen5 permanece visible por 5 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:5" BeginTime="0:0:27"/>
+            <!-- FondoImagen5 desaparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:3" BeginTime="0:0:32"/>
+
+            <!-- FondoImagen7 aparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:3" BeginTime="0:0:32"/>
+            <!-- FondoImagen7 permanece visible por 5 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="1" Duration="0:0:5" BeginTime="0:0:35"/>
+            <!-- FondoImagen7 desaparece suavemente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:3" BeginTime="0:0:40"/>
+        </Storyboard>
+    </Page.Resources>
+
+    <Grid>
+        <Image Name="FondoImagen2" Source="img/foto2.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0" />
+        <Image Name="FondoImagen3" Source="img/foto3.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen4" Source="img/foto4.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen5" Source="img/foto5.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen7" Source="img/foto7.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0" Margin="-10,0,10,0"/>
+        <Rectangle HorizontalAlignment="Left" Height="280" Margin="434,209,0,0" Stroke="Black" VerticalAlignment="Top" Width="392" Fill="#FF35ACCC" Opacity="0.7"/>
+        <!-- Título -->
+        
+        <TextBlock Text="Acceso Usuario" 
+                   FontSize="48" FontFamily="Nirmala UI"
+                   HorizontalAlignment="Left" VerticalAlignment="Top"
+                   Margin="459,209,0,0" Foreground="#FF20A9BA" FontWeight="Bold"/>
+
+        <!-- Caja de texto para el DNI -->
+        <TextBox x:Name="DniTextBox" 
+                 Width="250" Height="30" 
+                 FontSize="22" Margin="505,338,0,0"
+                 HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center"/>
+
+        <!-- Botón para acceder -->
+        
+        <Button Content="Acceder" 
+                Style="{StaticResource ModernoBoton}"
+                FontSize="25"
+                Width="200" Height="40" 
+                Margin="530,391,0,0"
+                HorizontalAlignment="Left" VerticalAlignment="Top"
+                Click="AccederButton_Click"/>
+        
+        <TextBlock Text="DNI" 
+            FontSize="36" FontWeight="Bold" FontFamily="Corbel"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            Margin="596,294,0,0" RenderTransformOrigin="0.601,0.256"/>
+        <TextBlock Text="Acceso Usuario" 
+            FontSize="48" FontFamily="Nirmala UI"
+            HorizontalAlignment="Left" VerticalAlignment="Top"
+            Margin="455,209,0,0" Foreground="#FF020202" FontWeight="Bold"/>
+
+    </Grid>
+</Page>

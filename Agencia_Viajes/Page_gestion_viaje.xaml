@@ -1,0 +1,154 @@
+﻿<Page x:Class="Proyecto_Troncal.Rubén_De_Las_Heras_Silveira.Page_gestion_viaje"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="720" 
+      d:DesignWidth="1280"
+      Title="Page_gestion_usuario"
+      Loaded="Page_Loaded">
+
+    <Page.Resources>
+        <Storyboard x:Key="animacionFondo" RepeatBehavior="Forever">
+            <!-- FondoImagen2 aparece con opacidad 1 -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                     Storyboard.TargetProperty="Opacity"
+                     From="0" To="1" Duration="0:0:2" BeginTime="0:0:0"/>
+
+            <!-- FondoImagen2 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="1" Duration="0:0:4" BeginTime="0:0:2"/>
+
+            <!-- FondoImagen2 desaparece mientras FondoImagen3 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="0" Duration="0:0:2" BeginTime="0:0:6"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                     Storyboard.TargetProperty="Opacity"
+                     From="0" To="1" Duration="0:0:2" BeginTime="0:0:6"/>
+
+            <!-- FondoImagen3 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="1" Duration="0:0:4" BeginTime="0:0:8"/>
+
+            <!-- FondoImagen3 desaparece mientras FondoImagen4 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen3"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="0" Duration="0:0:2" BeginTime="0:0:12"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                     Storyboard.TargetProperty="Opacity"
+                     From="0" To="1" Duration="0:0:2" BeginTime="0:0:12"/>
+
+            <!-- FondoImagen4 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="1" Duration="0:0:4" BeginTime="0:0:14"/>
+
+            <!-- FondoImagen4 desaparece mientras FondoImagen5 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen4"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="0" Duration="0:0:2" BeginTime="0:0:18"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                     Storyboard.TargetProperty="Opacity"
+                     From="0" To="1" Duration="0:0:2" BeginTime="0:0:18"/>
+
+            <!-- FondoImagen5 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="1" Duration="0:0:4" BeginTime="0:0:20"/>
+
+            <!-- FondoImagen5 desaparece mientras FondoImagen7 comienza a aparecer -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen5"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="0" Duration="0:0:2" BeginTime="0:0:24"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                     Storyboard.TargetProperty="Opacity"
+                     From="0" To="1" Duration="0:0:2" BeginTime="0:0:24"/>
+
+            <!-- FondoImagen7 permanece visible por 4 segundos -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="1" Duration="0:0:4" BeginTime="0:0:26"/>
+
+            <!-- FondoImagen7 desaparece mientras FondoImagen2 comienza a aparecer nuevamente -->
+            <DoubleAnimation Storyboard.TargetName="FondoImagen7"
+                     Storyboard.TargetProperty="Opacity"
+                     From="1" To="0" Duration="0:0:2" BeginTime="0:0:30"/>
+            <DoubleAnimation Storyboard.TargetName="FondoImagen2"
+                     Storyboard.TargetProperty="Opacity"
+                     From="0" To="1" Duration="0:0:2" BeginTime="0:0:30"/>
+        </Storyboard>
+    </Page.Resources>
+
+
+    <Grid>
+        <!-- Imágenes de Fondo (igual que antes) -->
+        <Image Name="FondoImagen2" Source="img/foto2.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0" />
+        <Image Name="FondoImagen3" Source="img/foto3.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen4" Source="img/foto4.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen5" Source="img/foto5.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0"/>
+        <Image Name="FondoImagen7" Source="img/foto7.jpg" Stretch="Fill" Opacity="0" Panel.ZIndex="0" Margin="-10,0,10,0"/>
+
+        <!-- Título -->
+        <Rectangle HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="1280" Opacity="0.75" Fill="#FF37637B"/>
+        <Label Content="GESTIÓN DE VIAJE" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="50" FontFamily="NSimSun" Margin="0,16,0,0"/>
+
+        <!-- Contenedor Principal -->
+        <Rectangle HorizontalAlignment="Center" Height="460" VerticalAlignment="Top" Width="1280" Opacity="0.85" Fill="#FF37637B" Margin="0,260,0,0"/>
+
+        <!-- ComboBox para Origen -->
+        <Label Content="Origen" HorizontalAlignment="Right" Margin="0,284,1133,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" FontSize="20" Margin="147,293,0,0" Name="ComboBoxOrigen">
+            <ComboBoxItem Content="Madrid"/>
+            <ComboBoxItem Content="Barcelona"/>
+            <ComboBoxItem Content="Sevilla"/>
+            <ComboBoxItem Content="Roma"/>
+            <ComboBoxItem Content="París"/>
+            <ComboBoxItem Content="Nueva York"/>
+        </ComboBox>
+
+        <!-- ComboBox para Destino -->
+        <Label Content="Destino" HorizontalAlignment="Right" Margin="0,458,1133,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" FontSize="20" Margin="147,467,0,0" Name="ComboBoxDestino">
+            <ComboBoxItem Content="Roma"/>
+            <ComboBoxItem Content="París"/>
+            <ComboBoxItem Content="Nueva York"/>
+            <ComboBoxItem Content="Madrid"/>
+            <ComboBoxItem Content="Barcelona"/>
+            <ComboBoxItem Content="Sevilla"/>
+        </ComboBox>
+
+        <!-- DatePicker para Fecha Ida -->
+        <Label Content="Fecha Ida" HorizontalAlignment="Right" Margin="0,288,724,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Width="226" FontSize="20" Margin="561,296,0,0" Name="DatePickerIda"/>
+
+        <!-- DatePicker para Fecha Vuelta -->
+        <Label Content="Fecha Vuelta" HorizontalAlignment="Right" Margin="0,457,719,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Width="226" FontSize="20" Margin="561,465,0,0" Name="DatePickerVuelta"/>
+
+        <!-- ComboBox para Tipo de Alojamiento -->
+        <Label Content="Alojamiento" HorizontalAlignment="Right" Margin="0,288,272,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" FontSize="20" Margin="1008,293,0,0" Name="ComboBoxAlojamiento">
+            <ComboBoxItem Content="Hotel"/>
+            <ComboBoxItem Content="Apartamento"/>
+            <ComboBoxItem Content="Hostal"/>
+        </ComboBox>
+
+        <!-- ComboBox para Tipo de Transporte -->
+        <Label Content="Transporte" HorizontalAlignment="Right" Margin="0,457,282,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" FontSize="20" Margin="1008,467,0,0" Name="ComboBoxTransporte">
+            <ComboBoxItem Content="Taxi"/>
+            <ComboBoxItem Content="Autobús"/>
+            <ComboBoxItem Content="Coche de alquiler"/>
+        </ComboBox>
+
+        <!-- Botones -->
+        <Button Content="Volver" Style="{StaticResource ModernoBoton}" FontSize="25" HorizontalAlignment="Left" Margin="41,620,0,0" VerticalAlignment="Top" Height="50" Width="168" Click="VolverMenu_Click"/>
+        <Button Content="Agregar Viaje" Style="{StaticResource ModernoBoton}"  FontSize="25" HorizontalAlignment="Left" Margin="983,620,0,0" VerticalAlignment="Top" Height="50" Width="225"  Click="ButtonAgregar_Click"/>
+        <Label Name="LabelDNI"  Content="DNI Cliente:" HorizontalAlignment="Right" Margin="0,620,729,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+        <TextBox Name="TextBoxDNI" HorizontalAlignment="Left" Margin="561,628,0,0" TextWrapping="Wrap" FontSize="25" VerticalAlignment="Top" Width="220" Height="34"/>
+    </Grid>
+</Page>
